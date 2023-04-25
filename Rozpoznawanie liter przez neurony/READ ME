@@ -1,0 +1,3 @@
+Po otworzeniu projektu należy klinkąć "Wczytaj ciąg uczący i ucz" wczytać CU.txt.
+Gdy program wyświetli "Sieć nauczona!" można rysować litery z lewej strony, a następnie kliknąć rozpoznaj, by program rozpoznał narysowaną litere.
+Jeśli program nie rozpozna jej można zaznaczyć poprawną litere dzięki RadioButtonowi, kliknąć "Zapisz ciąg uczący" i nadpisać CU.txt, żeby korzystać z nadpisanego ciągu należy ponownie wczytać ciąg
