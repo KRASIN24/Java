@@ -37,7 +37,7 @@ public class layout extends JFrame{
 	static int row=8;
 	static int col=8;
 	boolean saveOption = false;
-	String path = "D:\\informatyka\\Java\\Projekt nr 1";
+	String path = "";
 	JLabel label=new JLabel("Rozpoznanie liter R, P, M");
 	JRadioButton radioButtonR = new JRadioButton("R");
 	JRadioButton radioButtonP = new JRadioButton("P");
